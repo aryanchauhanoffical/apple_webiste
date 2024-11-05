@@ -43,11 +43,11 @@ const Features = () => {
           <div className="mt-32 mb-24 pl-24">
             <h2 className="text-5xl lg:text-7xl font-semibold">iPhone</h2>
             <h2 className="text-5xl lg:text-7xl font-semibold">
-              Forged in taitanium
+              Forged in titanium
             </h2>
           </div>
           <div className="flex-center flex-col sm:px-10">
-            <div className="relative h-[50vh] w-full flex items-center">
+            <div className="relative h-[50vh]   w-full flex items-center">
               <video
                 playsInline
                 id="exploreVideo"
